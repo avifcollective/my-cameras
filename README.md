@@ -8,6 +8,14 @@ An archive of all the cameras I have owned so far, plus some extra images I migh
 
 [Canon MV510](./Canon%20MV510/README.md)
 
+[Canon DIGITAL IXUS 75](./Canon%20DIGITAL%20IXUS%2075/README.md)
+
+### Nikon
+
+[Nikon D5100](./Nikon%20D5100/README.md)
+
+[Nikon D5300](./Nikon%20D5300/README.md)
+
 # Licensing for Images
 
 All images in this repository are licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)**.
