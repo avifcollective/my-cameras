@@ -1,5 +1,7 @@
 # Nikon D5300
 
+This camera has about the same history as the Nikon D5100, except that my mother bought it for herself sometime in the 2010s. I used it a bit for its Wifi feature, but it was relatively shortlived due to how tedious it was to use. 
+
 ## Media
 
 ### Photos

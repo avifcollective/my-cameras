@@ -2,6 +2,8 @@
 
 An archive of all the cameras I have owned so far, plus some extra images I mightve taken with them!
 
+No photos are edited, and all photos have been taken by me.
+
 ## List of cameras
 
 ### Canon
@@ -15,6 +17,10 @@ An archive of all the cameras I have owned so far, plus some extra images I migh
 [Nikon D5100](./Nikon%20D5100/README.md)
 
 [Nikon D5300](./Nikon%20D5300/README.md)
+
+## Kodak
+
+[Kodak EasyShare C813](./Kodak%20EasyShare%20C813/README.md)
 
 # Licensing for Images
 
