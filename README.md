@@ -12,15 +12,19 @@ No photos are edited, and all photos have been taken by me.
 
 [Canon DIGITAL IXUS 75](./Canon%20DIGITAL%20IXUS%2075/README.md)
 
+## Kodak
+
+[Kodak EasyShare C813](./Kodak%20EasyShare%20C813/README.md)
+
 ### Nikon
 
 [Nikon D5100](./Nikon%20D5100/README.md)
 
 [Nikon D5300](./Nikon%20D5300/README.md)
 
-## Kodak
+### Sony
 
-[Kodak EasyShare C813](./Kodak%20EasyShare%20C813/README.md)
+[Sony Cybershot DSC-W80](./Sony%20Cybershot%20DSC-W80/README.md)
 
 # Licensing for Images
 
