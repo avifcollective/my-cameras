@@ -24,4 +24,6 @@
 
 ### Videos
 
-![Sony Cybershot DSC-W80](MOV05026.mp4)
+[![Click me!](http://img.youtube.com/vi/RSuUulwrz_I/0.jpg)](http://www.youtube.com/watch?v=RSuUulwrz_I "Click me!")
+
+[![Click me!](http://img.youtube.com/vi/wDZq1HzOqAI/0.jpg)](http://www.youtube.com/watch?v=wDZq1HzOqAI "Click me!")
